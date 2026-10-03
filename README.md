@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of jiushutech/flarum-dingtalk-webhook.** Not for installation: use [Packagist](https://packagist.org/packages/jiushutech/flarum-dingtalk-webhook) or the [upstream repository](https://github.com/jiushutech/flarum-dingtalk-webhook).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/jiushutech-flarum-dingtalk-webhook/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.7.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/jiushutech-flarum-dingtalk-webhook/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.7.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-02-01 | `^1.7.0` | [Browse](https://github.com/flarchive/jiushutech-flarum-dingtalk-webhook/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/jiushutech-flarum-dingtalk-webhook.json](https://github.com/flarchive/archive-index/blob/main/packages/jiushutech-flarum-dingtalk-webhook.json)
 
